@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: green;
+    text-align: center;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+#heading {
+    color: goldenrod;
+}
+
+#button {
+    background-color: #525053;
+    border: 2px solid #8e44ad;
+    border-radius: 4px;
+}
